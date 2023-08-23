@@ -1,5 +1,7 @@
 ## Pymaceuticals Challenge
 
+# Cancer drug analysis of Mice using Python
+
 Included in this repo is the Pymaceuticals Challenge, including: 
   1. Jupyter Notebook Analysis file (Mouse_study.ipynb
   2. Two Data file csv's (located in 'data' folder)
